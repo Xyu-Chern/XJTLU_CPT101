@@ -1,0 +1,4 @@
+﻿  demo5.cpp
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\C_programming\C_4\demo5.cpp(11,17): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“size_t”
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\C_programming\C_4\demo5.cpp(11,17): message : 此参数用作缓冲区大小
+  C_4.vcxproj -> C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\C_programming\C_4\x64\Debug\C_4.exe

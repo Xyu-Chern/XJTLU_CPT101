@@ -1,0 +1,19 @@
+﻿  demo1.c
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(8,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(11,7): error C2065: “lea”: 未声明的标识符
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(11,7): error C2146: 语法错误: 缺少“;”(在标识符“ebx”的前面)
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(11,10): error C2065: “ebx”: 未声明的标识符
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(12,3): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(12,7): error C2065: “mov”: 未声明的标识符
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(12,7): error C2146: 语法错误: 缺少“;”(在标识符“ecx”的前面)
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(12,10): error C2065: “ecx”: 未声明的标识符
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(13,3): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(13,7): error C2065: “mov”: 未声明的标识符
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(13,7): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(13,10): error C2065: “eax”: 未声明的标识符
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(14,3): error C2146: 语法错误: 缺少“;”(在标识符“loop1”的前面)
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(14,14): error C2065: “add”: 未声明的标识符
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(14,14): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(14,17): error C2065: “eax”: 未声明的标识符
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(14,20): error C2059: 语法错误:“[”
+C:\Users\28449\Desktop\undergraduate\XJTLU\xjtlu M2 S1\cpt101\Assemble_Language\A_1\demo1.c(21,1): fatal  error C1004: 发现意外的文件尾
