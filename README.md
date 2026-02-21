@@ -16,7 +16,4 @@
 - `Computer Systems v1.doc` : The first version that I sort out. I add some supplyment materials from chatgpt 3.5 to help learning.This version follows the course sequence.
 - `Computer Systems v2.doc` : The second version that I sort out. Difference: This version doesnot follows the course sequence and it is more readable in a logical way.
 ----
-## Supplyment
-- I will update a new version may be in 24summer to revise many faults
-- To be honest , this lesson taught is very easy and you can just learn it in two weeks ,but please do not complain to your teacher ( mostly will be [Steven Guan](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/steven-guan) ): Everyone has its own main hardships, which you can not see from a student perspective.
 
